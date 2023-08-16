@@ -1,0 +1,4 @@
+customtkinter==5.2.0
+forex-python==1.8
+pandas==2.0.3
+pillow==9.4.0
