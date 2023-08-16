@@ -40,13 +40,8 @@ To use the CashWave Currency Converter application, follow these steps:
 ## Screenshots
 Here are some screenshots of the CashWave Currency Converter application in action:
 
-![Screenshot 1](/screenshots/screenshot1.png)
-*Caption for Screenshot 1.*
-
-![Screenshot 2](/screenshots/screenshot2.png)
-*Caption for Screenshot 2.*
-
-<!-- Add more screenshots if needed -->
+![Screenshot 1](img/preview.png)
+*Python based GUI.*
 
 ## Dependencies
 The CashWave Currency Converter relies on the following external libraries and packages:
